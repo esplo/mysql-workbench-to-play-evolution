@@ -1,0 +1,6 @@
+*.bak
+migrations/
+_tmp/
+*.mwb
+schema.sql
+
