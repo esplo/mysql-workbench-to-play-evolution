@@ -8,7 +8,7 @@ This replaces all the exsisting migration files, so we can use this only in an i
 
 ## Usage
 
-1. create a model with MySQL Workbench's EER Diaglam
+1. create a model with MySQL Workbench's EER Diagram
 1. export model as a sql script ("File" -> "Export" -> "Forward Engineer SQL Create Script...")
 1. save it as a "schema.sql", and place it in this directory
 1. run "$ ./split.sh 'target directory'"
